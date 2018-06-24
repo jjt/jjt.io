@@ -7,7 +7,7 @@ const headerLinkStyle = {
 }
 
 const Header = ({linkStyle}) => (
-  <div style={{marginBottom: '0rem'}}>
+  <div style={{marginBottom: '2.6rem'}}>
     <div>
       <h4 style={{margin:'0'}}>
         <Link to="/">Jason Trill</Link>
