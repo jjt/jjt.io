@@ -35,7 +35,7 @@ const Template = ({location, children}) => {
 
   return (
     <div className="c">
-      <Header linkStyle={headerLinkStyle}/>,
+      <Header linkStyle={headerLinkStyle}/>
       {children()}
     </div>
   )
