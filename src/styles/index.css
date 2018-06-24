@@ -1,0 +1,25 @@
+html {
+  font-family: sans-serif;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  font-size: 18px;
+  background: #f5faff;
+  color: #455666;
+}
+
+body {
+  margin: 0;
+}
+
+p {
+  margin-bottom: 1.2em;
+}
+
+blockquote {
+  padding-left: 1em;
+  border-left: 3px solid rgba(0,0,0,0.2);
+}
+
+.gatsby-resp-image-link {
+  margin: 2em 0 3em;
+}
