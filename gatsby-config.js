@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'jjt dot io',
+    title: 'jjt.io',
     author: 'Jason Trill',
-    description: 'An Internet-makin man\'s website',
+    description: "An Internet-makin man's website",
     siteUrl: 'https://jjt.io',
   },
   plugins: [
@@ -40,7 +40,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        //trackingId: `ADD YOUR TRACKING ID HERE`,
+        trackingId: `UA-125010541-1`,
       },
     },
     `gatsby-plugin-feed`,
