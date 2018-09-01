@@ -1,3 +1,7 @@
+# Deploying:
+
+Done via Netlify on the `deploy` branch.
+
 # gatsby-starter-blog
 Gatsby starter for creating a blog
 
